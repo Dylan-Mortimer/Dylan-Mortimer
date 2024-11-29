@@ -2,7 +2,7 @@ Hiya
 
 I'm Dylan Mortimer.
 
-I'm not sure why I'm writing this, since I'm just a random high school student, but I'll write it anyway.
+I'm not sure why I'm writing this, since I'm just a random student, but I'll write it anyway.
 
 I program mostly in Python, and can also use Godot and C++ for Arduino.
 
